@@ -224,6 +224,7 @@ button {
     border: none;
     border-radius: 25px;
     transition: all .5s ease-in-out;
+    outline: none;
 }
 
 button:hover {
